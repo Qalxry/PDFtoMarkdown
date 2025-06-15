@@ -4,5 +4,5 @@ Usages:
 
 ```bash
 pip install PyQt6 openai PyMuPDF tqdm Pillow
-./run.sh
+python main.py
 ```
