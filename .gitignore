@@ -1,0 +1,16 @@
+__pycache__/
+.vscode/
+.idea/
+.old/
+
+tmp/
+tmep/
+data/
+test/
+
+*.pyc
+*.pyo
+*.pyd
+*.md
+
+!README.md
